@@ -6,10 +6,6 @@ Kills any antivirus processes, including but not limited to 360 Security and Huo
 I am exploiting a driver vulnerability for process manipulation, registering the driver via NT‑functions. No hiding is implemented. Compiled with Clang, it can evade static antivirus detection.
 
 
-
-I am exploiting a driver vulnerability for process manipulation, registering the driver via NT‑functions.
-No hiding is implemented. Compiled with Clang, it can evade static antivirus detection.
-
 ⚠️ DISCLAIMER:
 This code is for **educational and security research purposes only**.
 You may only run it on hardware and systems that you legally own and fully control.
